@@ -1,5 +1,6 @@
 # React + Vite
 
+#You can customize it as needed with additional dependencies, plugins, or aliases.
 
 Currently, two official plugins are available:
 
